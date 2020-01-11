@@ -4,8 +4,8 @@ This is a simple template for NSS students to use to create their class website.
 
 ## To get started on the class website
 
-1. Clone repo
-1. Change the remote origin to a repo on your cohort's Github organization
+~~1. Clone repo
+1. Change the remote origin to a repo on your cohort's Github organization~~
 1. Update `data/cohort.json` with student information
 1. Update images with your class's photos
 1. Update `data/tech.json` with your cohort's tech stack
