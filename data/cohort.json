@@ -14,6 +14,19 @@
             "funImg": "AndrewTiller_Fun.jpg"
         },
         {
+            "id": 4,
+            "firstName": "Samuel",
+            "lastName": "Trejo",
+            "reelThemIn": "Technology is amazing, and it can make the world a better place. Let's do that!",
+            "bio": "<p>As I was growing up I wanted to be a chemist, a mathematician, a professional athlete and a famous musician. I became a self taught musician, tried soccer, volleyball and baseball, took all advanced math classes in highschool, and watched a lot of science videos. I enjoy all of those things but throughout my life technology has definitely been the coolest part. Ever since a very young age, I ended up repairing phones, fixing and building computers, modding my video games, and getting an education and employment in IT. About 2 years ago I was experimenting with creating my own SNES game, and learned about coding. I bought some coding books, and applied to NSS, which would end up being one of the most enjoyable years of my life. The feeling I get from completing a project that I have poured all of my creativity, self-expression, and passion into is so rewarding. And that is my ongoing journey in the world of technology.</p>",
+            "github": "https://github.com/samueltrejo",
+            "linkedIn": "https://www.linkedin.com/in/samueltrejo/",
+            "portfolio": "http://www.samueltrejo.com",
+            "email": "trejomsamuel@gmail.com",
+            "proImg": "SamuelTrejo.jpg",
+            "funImg": "SamuelTrejo_Fun01.jpg"
+        },
+        {
             "id": 7,
             "firstName": "Paul",
             "lastName": "Ellis",
