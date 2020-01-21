@@ -1,6 +1,32 @@
 {
     "cohort": [
         {
+            "id": 0,
+            "firstName": "",
+            "lastName": "",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 1,
+            "firstName": "Bob",
+            "lastName": "Baxter",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
             "id": 2,
             "firstName": "Matthew",
             "lastName": "Bell",
@@ -14,6 +40,45 @@
             "funImg": "MattBell_Fun.jpg"
         },
         {
+            "id": 3,
+            "firstName": "Austin",
+            "lastName": "Casey",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 4,
+            "firstName": "Wayne",
+            "lastName": "Chipchase",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 5,
+            "firstName": "Sean",
+            "lastName": "Davis",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
             "id": 6,
             "firstName": "Emily",
             "lastName": "DeWitt",
@@ -25,6 +90,32 @@
             "email": "emilykdewitt@gmail.com",
             "proImg": "EmilyDeWitt01.jpg",
             "funImg": "EmilyDeWitt.jpg"
+        },
+        {
+            "id": 7,
+            "firstName": "Calvin",
+            "lastName": "Foster",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
+            "id": 8,
+            "firstName": "Matt",
+            "lastName": "Gill",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
         },
         {
             "id": 9,
@@ -53,6 +144,19 @@
             "funImg": "SilvestreLuna01.jpg"
         },
         {
+            "id": 11,
+            "firstName": "Heath",
+            "lastName": "Moore",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
             "id": 12,
             "firstName": "David",
             "lastName": "Mullins",
@@ -76,6 +180,19 @@
             "portfolio": "https://personal-portfolio-9b44e.firebaseapp.com/",
             "email": "okaformark@gmail.com",
             "proImg": "MarkOkafor.jpg",
+            "funImg": ""
+        },
+        {
+            "id": 14,
+            "firstName": "Josh",
+            "lastName": "Pantana",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
             "funImg": ""
         },
         {
@@ -105,6 +222,19 @@
             "funImg": "GregStephen01.jpg"
         },
         {
+            "id": 17,
+            "firstName": "Lwam",
+            "lastName": "Tekie",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
+        },
+        {
             "id": 18,
             "firstName": "Andrew",
             "lastName": "Tiller",
@@ -129,6 +259,19 @@
             "email": "trejomsamuel@gmail.com",
             "proImg": "SamuelTrejo.jpg",
             "funImg": "SamuelTrejo_Fun01.jpg"
+        },
+        {
+            "id": 20,
+            "firstName": "Keith",
+            "lastName": "Walker",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "",
+            "linkedIn": "",
+            "portfolio": "",
+            "email": "",
+            "proImg": "",
+            "funImg": ""
         },
         {
             "id": 21,
