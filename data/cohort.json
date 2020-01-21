@@ -129,6 +129,19 @@
             "email": "jjlipps@gmail.com",
             "proImg": "JenniferLipps.jpg",
             "funImg": "JenniferLipps_Fun.jpg"
+        },
+        {
+            "id": 20,
+            "firstName": "David",
+            "lastName": "Mullins",
+            "reelThemIn": "Have [laptop], will travel",
+            "bio": "",
+            "github": "https://github.com/GitMullins",
+            "linkedIn": "https://www.linkedin.com/in/mullins-david/",
+            "portfolio": "https://personalbiosite-2611b.web.app/",
+            "email": "Mullins6323@gmail.com",
+            "proImg": "DavidMullins.jpg",
+            "funImg": "DavidMullins_Fun.jpg"
         }
     ]
 }
