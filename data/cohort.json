@@ -28,16 +28,16 @@
         },
         {
             "id": 7,
-            "firstName": "Paul",
-            "lastName": "Ellis",
-            "reelThemIn": "Somewhere, someone will use what we design. That means we can make that person’s day that much better. That’s motivation!",
-            "bio": "<p>For the better part of a decade, I’ve worked with some of the best people in Nashville to identify, analyze, plan, and implement solutions to public safety issues. Now, as a developer, I get to continue those steps in a broader scope of solution needs. I love to learn and pass on learning, and I consider my workday satisfying when I’ve contributed value toward solutions and to my teammates’ quality of work-life.</p>",
-            "github": "https://github.com/tynesellis",
-            "linkedIn": "https://www.linkedin.com/in/paul-ellis-110a44149/",
-            "portfolio": "http://www.developerellis.com",
-            "email": "tynesellis@icloud.com",
-            "proImg": "",
-            "funImg": ""
+            "firstName": "Saul",
+            "lastName": "Solano",
+            "reelThemIn": "'Code is like humor. When you have to explain it, it’s bad.' – Cory House",
+            "bio": "<p></p>",
+            "github": "https://github.com/Saul3d",
+            "linkedIn": "https://www.linkedin.com/in/saul-solano/",
+            "portfolio": "http://www.saulsolano.com",
+            "email": "saul3d@yahoo.com",
+            "proImg": "SaulSolano.jpg",
+            "funImg": "SaulSolano-01.jpg"
         },
         {
             "id": 17,
