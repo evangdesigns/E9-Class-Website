@@ -67,29 +67,29 @@
         },
         {
             "id": 11,
-            "firstName": "Greg",
-            "lastName": "Lawrence",
-            "reelThemIn": "I'm passionate about blending creativity with technology... and riding my bicycle.",
-            "bio": "<p>I am always crafting how I interact with electronics. I love finding ways to squeeze the full potential out technology, whether it's a computer, smartphone or home theater. Every new Android phone or tablet I buy gets rooted and setup with a custom Rom to maximize my options and control over the device. I am frequently the guy my coworkers and friends turn to for help with tech, whether I know how or not. I learned quickly how to leverage Google to find solutions and every challenge turned into a fun rabbit hole of learning and new skills.</p><p>After many years in the Music Industry, I am excited to now apply my passion to Software Development. I have developed an impeccable attention to detail, tenacious work ethic, and diverse problem solving skills while working in the audio and social media industries. While pondering the next steps in my career, software development was a clear choice as it mirrors my drive for continuous learning and it allows me to continue to craft electronic experiences.</p><p>When I'm not coding I love to mountain bike, discover new craft beer, tinker with Android development and spend time with my family.</p>",
-            "github": "https://github.com/chewieez",
-            "linkedIn": "https://www.linkedin.com/in/gregmlawrence",
-            "portfolio": "https://www.greglawrence.me",
-            "email": "gregaudio@gmail.com",
-            "proImg": "",
+            "firstName": "Mark",
+            "lastName": "Okafor",
+            "reelThemIn": "'You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.' -Dr. Seuss",
+            "bio": "I enjoy problem solving just as much as that sense of fulfillment attached to it. Becoming a developer has afforded me the opportunity and possibility to turn ideas into reality with just a computer. I am glad to be able to earn such skills at Nashville Software School (NSS).",
+            "github": "https://github.com/okaformark",
+            "linkedIn": "https://www.linkedin.com/in/okaformark/",
+            "portfolio": "https://personal-portfolio-9b44e.firebaseapp.com/",
+            "email": "okaformark@gmail.com",
+            "proImg": "MarkOkafor.jpg",
             "funImg": ""
         },
         {
             "id": 16,
-            "firstName": "Kristen",
-            "lastName": "Norris",
-            "reelThemIn": "Combining my experience in nonprofit and knowledge of technology to help others",
-            "bio": "<p>For as long as I can remember, I have had a passion for helping people and for creating things. I’ve mostly kept these two passions separate: channeling my creative side into hobbies and my desire to help others into a career path.</p><p>After spending several years working in various positions at non-profits, I started to feel like keeping my passions divided was preventing me from finding an ideal fit in my professional life so I began to explore ways that I could combine them. After watching CODE: Debugging the Gender Gap, a documentary about women in tech, I realized that coding could be the combination of my passions I was looking for. I took a few online classes and soon found myself leaving my non-profit job to enroll in the full-time Web Developer Bootcamp at Nashville Software School. I am fascinated with all of the things that technology can do and enjoy the ever changing landscape of the tech industry.</p><p>Since beginning my journey at Nashville Software school, I have learned how to turn ideas into code and am excited to continue to see how furthering my skills as a software developer will allow me to help others.</p>",
-            "github": "https://github.com/krnorris65",
-            "linkedIn": "https://www.linkedin.com/in/krnorris65",
-            "portfolio": "http://www.kristen-norris.com",
-            "email": "krnorris65@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "firstName": "Greg",
+            "lastName": "Stephen",
+            "reelThemIn": "",
+            "bio": "",
+            "github": "https://github.com/GregStephen",
+            "linkedIn": "https://www.linkedin.com/in/greg-stephen/",
+            "portfolio": "https://personal-website-9263b.web.app/",
+            "email": "gregastephen@gmail.com",
+            "proImg": "GregStephen.jpg",
+            "funImg": "GregStephen01.jpg"
         }
     ]
 }
