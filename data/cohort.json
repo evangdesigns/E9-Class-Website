@@ -90,6 +90,45 @@
             "email": "gregastephen@gmail.com",
             "proImg": "GregStephen.jpg",
             "funImg": "GregStephen01.jpg"
+        },
+        {
+            "id": 17,
+            "firstName": "Silvestre",
+            "lastName": "Luna",
+            "reelThemIn": "console.error('is working?');",
+            "bio": "",
+            "github": "https://github.com/silvestreluna",
+            "linkedIn": "https://www.linkedin.com/in/silvestreluna/",
+            "portfolio": "https://personal-page-dd756.firebaseapp.com/",
+            "email": "slvtrluna@gmail.com",
+            "proImg": "SilvestreLuna.jpg",
+            "funImg": "SilvestreLuna01.jpg"
+        },
+        {
+            "id": 18,
+            "firstName": "Emily",
+            "lastName": "DeWitt",
+            "reelThemIn": "'The only true wisdom is in knowing you know nothing.' -Socrates",
+            "bio": "",
+            "github": "https://github.com/emilykdewitt",
+            "linkedIn": "https://www.linkedin.com/in/emily-dewitt-14275266/",
+            "portfolio": "https://emily-dewitt-personal-site.firebaseapp.com/",
+            "email": "emilykdewitt@gmail.com",
+            "proImg": "EmilyDeWitt01.jpg",
+            "funImg": "EmilyDeWitt.jpg"
+        },
+        {
+            "id": 19,
+            "firstName": "Jennifer",
+            "lastName": "Lipps",
+            "reelThemIn": "'The only true wisdom is in knowing you know nothing.' -Socrates",
+            "bio": "",
+            "github": "https://github.com/JenniferLipps/",
+            "linkedIn": "https://www.linkedin.com/in/jenniferlipps/",
+            "portfolio": "",
+            "email": "jjlipps@gmail.com",
+            "proImg": "JenniferLipps.jpg",
+            "funImg": "JenniferLipps_Fun.jpg"
         }
     ]
 }
