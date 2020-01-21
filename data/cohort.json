@@ -10,8 +10,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 1,
@@ -23,8 +23,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 2,
@@ -49,8 +49,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 4,
@@ -62,8 +62,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 5,
@@ -75,8 +75,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 6,
@@ -101,8 +101,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 8,
@@ -114,8 +114,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 9,
@@ -153,8 +153,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 12,
@@ -192,8 +192,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 15,
@@ -231,8 +231,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 18,
@@ -270,8 +270,8 @@
             "linkedIn": "",
             "portfolio": "",
             "email": "",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "../proimageHolder.png",
+            "funImg": "../funimageHolder.png"
         },
         {
             "id": 21,
