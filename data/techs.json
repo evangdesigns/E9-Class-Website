@@ -103,12 +103,6 @@
             "link": "https://www.visualstudio.com/vs/"
         },
         {
-            "id": 21,
-            "name": ".Net MVC",
-            "image": "aspnetMVC.png",
-            "link": "https://www.asp.net/mvc"
-        },
-        {
             "id": 22,
             "name": "ES lint",
             "image": "eslint.png",
