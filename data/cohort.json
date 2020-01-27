@@ -251,14 +251,14 @@
             "id": 20,
             "firstName": "Keith",
             "lastName": "Walker",
-            "reelThemIn": null,
-            "bio": null,
-            "github": null,
-            "linkedIn": null,
-            "portfolio": null,
-            "email": null,
-            "proImg": "../proimageHolder.png",
-            "funImg": "../funimageHolder.png"
+            "reelThemIn": "Don't talk about it, Be about it",
+            "bio": "Long time Computer Enthusiast, Avid snowboarder, and seasoned Traveler. I've traveled to, and lived in almost all 50 states. Worked as a Fisherman in Alaska, A ski lift operator in Washington, and have done government contracting work across the country. I've been putting together, and taking apart computers since the age of 9, and am excited to finally be turning a lifelong passion into a career!",
+            "github": "https://github.com/KeithRWalker",
+            "linkedIn": "https://www.linkedin.com/in/keithrwalker/",
+            "portfolio": "https://www.KeithRWalker.com",
+            "email": "KRW41891@gmail.com",
+            "proImg": "KeithWalker.jpg",
+            "funImg": "KeithWalker01.jpg"
         },
         {
             "id": 21,
