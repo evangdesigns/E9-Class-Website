@@ -198,6 +198,10 @@ button{
     background-color: #238193!important;
 }
 
+.card-text{
+    text-align: center;
+}
+
 /* adjusts size of contact icons depending on size of card */
 @media (min-width: 992px) and (max-width: 1200px){
     .fa-3x{
